@@ -1,0 +1,3 @@
+config:
+  gcp:project: gcp-go-nickens
+  gcp:zone: us-central1-a

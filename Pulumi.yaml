@@ -1,0 +1,3 @@
+name: gcp-go-nickens
+runtime: go
+description: A GCP Go Pulumi program with Kubernetes
